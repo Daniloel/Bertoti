@@ -5,6 +5,7 @@ Engenharia de Software Segundo Semestre
 
 # Funcionais (Ação/Função/Tarefa) 
   Caso de uso/
+  <button name="button">Click me</button>
   
   Story Card(Dos mesmo que foi feito no caso de uso)
   
