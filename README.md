@@ -40,5 +40,5 @@ src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/Co
 <img width="900px" height="800px" 
 src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/Diagrama%20de%20classes_04.drawio.png"/>
 
-<img width="900px" height="800px" 
-src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/Diagrama%20de%20classes_04.drawio.png"/>
+<img width="800px" height="500px" 
+src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/plataforma-Page-2.drawio.png"/>
