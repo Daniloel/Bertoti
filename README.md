@@ -30,15 +30,13 @@ Engenharia de Software Segundo Semestre
 <br />
 <sub>Heuristica_4</sub>
 <br />
- 
 <td align="center">
-<img src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/Heuristica_6.png" width = "40%"> 
+<img src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/Heuristica_6.png" width = "50%"> 
 <br />
 <sub>Heuristica_6</sub>
 <br /> 
 </td>
 </tr>
- 
 <tr>
 <td align="center">
 <img src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/heuristica_2.png" width = "40%"> 
@@ -46,9 +44,8 @@ Engenharia de Software Segundo Semestre
 <sub>Heuristica_2</sub>
 <br />
 </td>
- 
 <td align="center">
-<img src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/heuristica_3.png" width = "40%"> 
+<img src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/heuristica_3.png" width = "50%"> 
 <br />
 <sub>Heuristica_3</sub>
 <br />
