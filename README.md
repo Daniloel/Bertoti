@@ -21,7 +21,49 @@ Engenharia de Software Segundo Semestre
 
 ### Não Funcionais(Qualidades)
  <a href="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/CasodeUso.png"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Usabilidade</button></a>
-  
+ 
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com">
+ 
+<img src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/Heuristica_4.png" width = "40%">            
+<br />
+<sub></sub>
+<br />
+</a>
+<sub><b>Heuristica_4</b></sub>
+<sub><b><a href="https://github.com/LeoAdlerr"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub> 
+<td align="center">
+<a href="https://github.com">
+ 
+<img src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/Heuristica_6.png" width = "40%"> 
+<br />
+<sub>Heuristica_6</sub>
+
+</td>
+<td align="center">
+<a href="https://github.com">
+
+ <img src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/heuristica_2.png" width = "40%"> 
+<br />
+<sub><b>Heuristica_2</b></sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com">
+ 
+<img src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/heuristica_3.png" width = "40%"> 
+<br />
+<sub>Heuristica_3</sub>
+<br />
+</td>
+</table>
+ 
+
   
 ## Projetos do Sistema
 ### Classes
