@@ -70,7 +70,7 @@ Engenharia de Software Segundo Semestre
 src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/Codigo%2BClasse_03.drawio.png"/>
   
 <img width="900px" height="800px" 
-src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/Diagrama%20de%20classes_04.drawio.png"/>
+src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/plataforma-Page-1.drawio.png"/>
 
 <img width="800px" height="500px" 
 src="https://github.com/Daniloel/Bertoti/blob/main/Engenharia%20de%20Software/plataforma-Page-2.drawio.png"/>
