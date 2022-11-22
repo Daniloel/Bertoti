@@ -1,1 +1,52 @@
 tg! Professor  Giuliano Bertoti
+
+
+
+Microserviços com foco em requisições e disponibilidade de dados. 
+
+
+
+
+
+D.V.Silva
+
+ Faculdade de Tecnologia de São José dos Campos - Professor Jessen Vidal
+Av. Cesare Mansueto Giulio Lattes, 1350 - Eugênio de Melo, São José dos Campos/SP,
+CEP.: 12247-014, Brasil.
+Telefone: (12) 3905-2423
+
+
+
+Com o crescimento e aumento da acessibilidade a tecnologia o número de requisições vem aumentando ao passar do tempo, exemplo disso são aparelhos móveis que está a todo momento conectado com as rede sociais.
+No entanto grande parte das arquiteturas atuais tem como base a “arquitetura monolítica” onde as execuções são centralizadas em um único servidor, como o passar do tempo os sistemas exige diversas mudanças e isso vem dificultando a escalabilidade e gerenciamento dos dados gerando um déficit técnico. 
+Método de migração de sistemas monolíticos legados para a arquitetura de microsserviços (unb.br)(dia 20/09/2022)
+
+Baseados nessas dificuldades muitas empresas estão adotando um anova arquitetura denominada “microsserviços”, este vem sendo uma saída para a modernização dos sistemas.
+Os microsserviços é composto por software dividido em pequenas partes, onde é desmembradas as suas funções,  como demostrado na figura (xxxxxxx) isto facilita a manutenção e o desenvolvimento do software pois cada pequena parte pode ser tratada e desenvolvida separadamente sem prejudicar o funcionamento das outras.
+2021_TaylorRodriguesLopes.pdf(dia 04/10/2022)
+Sendo assim este artigo vem abortar e os benefícios de se utilizar o microserviçoes desenvolvendo um projeto onde é composto de microserviços explicando suas funções e recolhendo dados demostrando os benefícios do processo., sendo feita uma comparação da arquitetura de monólito com a de microserviço. Sendo utilizada a tecnologia java como linguagem principal
+DevOps: A Software Architect's Perspective - Len Bass, Ingo Weber, Liming Zhu - Google Books
+(acessado dia 18/10/2022)
+
+Introdução
+Uma das principais dificuldades em elaborar uma solução é uma alta demanda de requisição simultâneas que os sistemas podem consumir, assim sendo  empresas e desenvolvedores  precisam preparar o sistemas para  o aumentar de escalabilidade, conforme a demanda do cliente final, pois com o passar do tempo as requisições simultâneas de uma solução(produto, sistema) está aumentando cada vez mais. Dentro desse cenário grandes empresas como IBM, Netflix entre outras estão migrando a sua arquitetura de monolítico para microserviços procurando melhorar a experiência do seu usuário final, esse processo de migração mostra que a arquitetura de microserviço gera vantagens comparada com a arquitetura de monolítico.
+A arquitetura é parte crucial de uma solução, sendo assim o desenvolvedor leva em consideração diversas desvantagens ou vantagens como o tempo de ciclo de vida a facilidade de realizar manutenção no sistema e o tempo que leva para alterações.
+//Confirmas se a parte de cima esta ok, foi baseada na parte abaixo.
+Acessado 18/10/2022
+Acesso 25/10/2022   
+Método de migração de sistemas monolíticos legados para a arquitetura de microsserviços (unb.br)
+08/11/2022
+Além disso a arquitetura leva em consideração as expectativas do usuário final e possibilita a compreensão entre o relacionamento dos elementos.
+Método de migração de sistemas monolíticos legados para a arquitetura de microsserviços (unb.br)
+
+
+A arquitetura de microserviços é baseada em um princípio de relacionamento único onde tarefas autônimas trabalham juntos. Cada tarefa possui sua função dentro dos ecossistemas da solução baseada nas regras de negócio que é proposta pelo cliente. Sendo assim a implementação de cada serviço é realizada de modo individual tendo sua comunicação via rede.
+Sendo assim a arquitetura fica bem caracterizada como uma arquitetura Orientada a serviço (SOA) onde todas as aplicações trabalham em conjunto, porém de forma independente.
+O microserviços traz entre outras facilidades a comunicação por API (Apllication Programming Interface) onde possibilita a facilidade de se trabalhar com linguagem de código diferente, além disso é recomendado a padronização de comunicação via HTTP (Hiper text Transfr Protocol) e Jason (JavaScript Object Notation) como forma de dados.
+O microserviço traz muitas vantagens, como escalabilidade e para sistemas com variedade de serviço é possível escolher qual a melhor tecnologia será implementada em cada funcionalidade.
+Além disso o microserviço traz a segurança de um sistema onde as falhas não afetam todos os serviços. Por trabalhar separado de forma individual, quando um determinado serviço entra em falha ele não interfere nas outras aplicações, isto proporciona uma segurança maior dos sistemas pois apenas um serviço é afetado. O fato de trabalha em pequenas partes e de forma autônima deixa   arquitetura ainda mais interessante no que diz respeito a melhorias de implementação pois isto pode ser feito isoladamente a fada parte do sistema onde o microserviço é dedicado. Isto torna as melhorias e manutenção mais naturais e dinâmica.
+
+//Confirmas se a parte de cima esta ok, foi baseada na parte abaixo.
+08/11/2022
+https://periodicos.ufsc.br/index.php/eb/article/view/1518-2924.2018v23n53p147
+
