@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta Email</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <!-- <script type="text/javascript" src="http://code.jquery.com/jquery-1.5.js"></script> -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+
+
+
+
+</head>
+
+<body>
+    <div class="container">
+        <h1>Consulta Estados</h1>
+        <form>
+           
+            <table class="table table-bordered">
+                <!-- <caption>Estados</caption> -->
+                <thead>
+                    <tr>
+                        <th>id</th>
+                        <th>Estado</th>
+                        <th>Sigla</th>
+                    </tr>
+                </thead>
+
+                <tbody id="dadosEstado">
+
+                </tbody>
+            </table>
+
+
+            <div>
+                <button id="buscaEstado" class="btn btn-outline-success"
+                type="submit" onclick="busca()">
+                Buscar 
+                </button>
+
+            </div>
+
+        </form>
+    </div>
+    <script src="main.js"></script>
+</body>
+
+</html>
