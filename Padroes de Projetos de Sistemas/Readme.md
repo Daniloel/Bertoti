@@ -7,7 +7,7 @@
              <th scope="col">Objetivo_Descrição</th>
          </tr>
          <tr>
-             <th scope="col">Facade</th>
+             <th scope="col">Estratégia</th>
              <th scope="col">O facade é uma padrao ...</th>
          </tr>
                <tr>
@@ -15,15 +15,15 @@
              <th scope="col">O facade é uma padrao ...</th>
          </tr>
                <tr>
-             <th scope="col">Facade</th>
+             <th scope="col">Observer</th>
              <th scope="col">O facade é uma padrao ...</th>
          </tr>
                <tr>
-             <th scope="col">Facade</th>
+             <th scope="col">Singliton</th>
              <th scope="col">O facade é uma padrao ...</th>
          </tr>
                <tr>
-             <th scope="col">Facade</th>
+             <th scope="col">Composite</th>
              <th scope="col">O facade é uma padrao ...</th>
          </tr>
         </thead>
