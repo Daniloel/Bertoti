@@ -12,26 +12,37 @@
                               colocados  em classes separadas e objetos intercambiáveis. Em outras palavras, o padrão Strategy é usado para
                               definir uma família de algoritmos, encapsular cada um deles e torná-los intercambiáveis. O padrão Strategy permite que o 
                               algoritmo varie independentemente dos clientes que o usam.                
-               </th>
+              </th>
          </tr>
                <tr>
              <th scope="col">Facade</th>
              <th scope="col">O padrão de projeto Facade é um padrão de projeto estrutural que fornece uma interface simplificada para um sistema complexo de classes, biblioteca ou framework. 
                              Ele diminui a complexidade geral do aplicativo e ajuda a mover dependências indesejadas para um só local.Em outras palavras, o Facade é uma interface que esconde
                              a complexidade do sistema e fornece uma maneira fácil de acessá-lo</th>
-         </tr>
-               <tr>
+             </tr>
+             <tr>
              <th scope="col">Observer</th>
-             <th scope="col">O facade é uma padrao ...</th>
-         </tr>
+             <th scope="col">O padrão de projeto Observer é responsável por observar e notificar a mudança de estado entre objetos distintos através de uma dependência um-para-muitos. 
+Este padrão de projeto utiliza basicamente duas classes: a que será observada (Subject ou Observable) e a observadora (Observer). As classes observadoras
+devem implementar uma interface específica, já a classe que será observada implementa uma interface ou estende uma superclasse. O Observer é um padrão de 
+projeto comportamental que permite que você defina um mecanismo de assinatura para notificar múltiplos objetos sobre quaisquer eventos que aconteçam com 
+o objeto que eles estão observando.
+            </th>
+            </tr>
                <tr>
              <th scope="col">Singliton</th>
-             <th scope="col">O facade é uma padrao ...</th>
-         </tr>
+             <th scope="col">O padrão de projeto Singleton é um padrão de projeto criacional que permite que você garanta que uma classe tenha apenas uma instância, enquanto fornece um
+ponto de acesso global para essa instância. Em outras palavras, o padrão Singleton é usado quando você deseja ter certeza de que apenas uma instância de uma
+classe será criada e usada em todo o seu código. O Singleton é um padrão de projeto muito útil, mas deve ser usado com cuidado, pois pode tornar o código difícil de testar.</th>
+             </tr>
                <tr>
              <th scope="col">Composite</th>
-             <th scope="col">O facade é uma padrao ...</th>
-         </tr>
+             <th scope="col">O padrão de projeto Composite é um padrão de projeto estrutural que permite que você trate objetos individuais e composições de objetos de maneira uniforme. O Composite é um
+padrão de projeto muito útil quando você precisa criar uma estrutura de objetos em árvore. O padrão Composite define uma classe base para todos os componentes, bem como 
+classes para componentes folha e componentes compostos. Os componentes folha são objetos simples que não têm filhos, enquanto os componentes compostos são objetos que têm filhos.
+O Composite permite que você trabalhe com objetos em árvores de maneira uniforme, independentemente de serem objetos simples ou compostos
+             </th>
+          </tr>
         </thead>
      </table>
      </body>
