@@ -1,10 +1,10 @@
-
+# Readme dos Padrões de Projetos
 <body>
       <table border="1" width="500">
         <thead>
          <tr>
-             <th scope="col">Padrao</th>
-             <th scope="col">Objetivo_Descrição</th>
+             <th scope="col"> <h2>Padrões</h2></th>
+             <th scope="col"> <h1>Descrição</h1></th>
          </tr>
          <tr>
              <th scope="col">Estratégia</th>
