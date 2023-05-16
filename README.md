@@ -4,7 +4,7 @@
 ### Engenharia de Software - Segundo semestre
 ### Laboratório_3 - Terceiro Semestre
 ### Metodologia -Quarto Semestre
-### Padrões de projeto - Qyarto Semestre
-### TG - Quuinto Semestre
+### Padrões de Projeto - Quarto Semestre
+### TG - Quinto Semestre
 
  
