@@ -10,7 +10,7 @@
 	 </tr>
         <tr>
 		 <th scope="col">Estratégia</th>
-		 <th scope="col"> anti padrão estratégia </th>
+		 <th scope="col"> Herança </th>
 		 <th scope="col"> <p align="justify">
 					 O padrão de projeto Strategy é um padrão de projeto comportamental que permite que você defina uma família de algoritmos,
 					 colocados  em classes separadas e objetos intercambiáveis. Em outras palavras, o padrão Strategy é usado para
