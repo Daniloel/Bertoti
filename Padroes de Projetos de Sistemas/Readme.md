@@ -22,12 +22,14 @@
 	 </tr>   
        <tr>
 		 <th scope="col">Facade</th>
-             <th scope="col"> descrição estratégia</th> 
+             <th scope="col"> <p align="justify"> Uma fachada pode se tornar um objeto total acoplado a todas as classes de uma aplicação
+ </p></th> 
 		 <th scope="col">
 		 <p align="justify"> O padrão de projeto Facade é um padrão de projeto estrutural que fornece uma interface simplificada para um sistema complexo de classes, biblioteca ou                  framework.  Ele diminui a complexidade geral do aplicativo e ajuda a mover dependências indesejadas para um só local.Em outras palavras, o Facade é uma interface que esconde
 		 a complexidade do sistema e fornece uma maneira fácil de acessá-lo </p>
 		 </th>
-		 <th scope="col"> porque usar estratégia</th>
+		 <th scope="col"> <p align="justify">  Você pode isolar seu código da complexidade de um subsistema.
+ </p></th>
 		 </tr>     
             <tr>
 		 <th scope="col">Observer</th>
