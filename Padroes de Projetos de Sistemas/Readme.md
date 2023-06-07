@@ -60,12 +60,17 @@
 		 </tr>
 		 <tr>
 		 <th scope="col">Composite</th>
-             <th scope="col"> anti-padrao  </th>      
+             <th scope="col"> <p align="justify">Pode ser difícil providenciar uma interface comum para
+ classes cuja funcionalidade difere muito. Em certos cenários, você precisaria
+ generalizar muito a interface componente, fazendo dela uma interface de difícil compreensão.
+			  </p> </th>      
 		 <th scope="col">
 			   <p align="justify"> O padrão de projeto Composite é um padrão de projeto estrutural que permite que você trate objetos individuais e composições de objetos de maneira                         uniforme. O Composite é um  padrão de projeto muito útil quando você precisa criar uma estrutura de objetos em árvore. O padrão Composite define uma classe base                            para todos os componentes, bem como  classes para componentes folha e componentes compostos. Os componentes folha são objetos simples que não têm filhos, enquanto                          os componentes compostos são objetos que têm filhos. O Composite permite que você trabalhe com objetos em árvores de maneira uniforme, independentemente de serem                          objetos simples ou compostos
 			  </p> 
 		 </th>
-		 <th scope="col"> <p>oi </p>  </th>
+		 <th scope="col"> <p align="justify">Você pode trabalhar com estruturas de árvore complexas mais convenientemente: utilize o polimorfismo e a recursão a seu favor.
+ Princípio aberto/fechado. Você pode introduzir novos tipos de elemento na aplicação sem quebrar o código existente, o que agora funciona com a árvore de objetos.
+			  </p> </th>
 	  </tr>
 	</thead>
  </table>
