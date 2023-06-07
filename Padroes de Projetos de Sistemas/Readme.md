@@ -31,7 +31,8 @@
 		 </tr>     
             <tr>
 		 <th scope="col">Observer</th>
-             <th scope="col"> anti padrao   </th>    
+             <th scope="col"> <p align="justify">Assinantes são notificados em ordem aleatória
+			  </p>   </th>    
 		 <th scope="col">
 			  <p align="justify"> 
 			   O padrão de projeto Observer é responsável por observar e notificar a mudança de estado entre objetos distintos através de uma dependência um-para-muitos. 
@@ -41,7 +42,9 @@
                      o objeto que eles estão observando.
 			  </p>     
 		</th>
-		<th scope="col"> <p>oi </p>  </th>
+		<th scope="col"><p align="justify">Princípio aberto/fechado. Você pode introduzir novas classes assinantes sem ter que mudar o código da publicadora (e vice versa se existe uma interface publicadora).
+ Você pode estabelecer relações entre objetos durante a execução.
+			  </p></th>
 		</tr>
             <tr>
 		 <th scope="col">Singliton</th>
