@@ -18,7 +18,7 @@
 					 algoritmo varie independentemente dos clientes que o usam.
 			   </p> 
 		   </th> 
-		 <th scope="col"> porque usar estratégia   </th>  
+		 <th scope="col"> Polimorfismo  </th>  
 	 </tr>   
        <tr>
 		 <th scope="col">Facade</th>
