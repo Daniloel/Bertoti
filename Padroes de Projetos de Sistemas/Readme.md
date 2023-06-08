@@ -33,8 +33,7 @@
 		 </tr>     
             <tr>
 		 <th scope="col">Observer</th>
-             <th scope="col"> <p align="justify">Assinantes são notificados em ordem aleatória
-			  </p>   </th>    
+                 <th scope="col"> <p>Assinantes são notificados em ordem aleatória </p></th>    
 		 <th scope="col">
 			  <p align="justify"> 
 			   O padrão de projeto Observer é responsável por observar e notificar a mudança de estado entre objetos distintos através de uma dependência um-para-muitos. 
@@ -47,9 +46,9 @@
 		<th scope="col"><p align="justify">Princípio aberto/fechado. Você pode introduzir novas classes assinantes sem ter que mudar o código da publicadora (e vice versa se                                                           existe uma interface publicadora), estabelece relações entre objetos durante a execução. </p>
 		 </th>
 		</tr>
-            <tr>
+                <tr>
 		 <th scope="col">Singliton</th>
-              <th scope="col"> <p align="justify">  O padrão requer tratamento especial em um ambiente multithreaded para que múltiplas threads não possam criar um objeto singleton várias                                vezes </p>
+                 <th scope="col"> <p align="justify">  O padrão requer tratamento especial em um ambiente multithreaded para que múltiplas threads não possam criar um objeto singleton                                         várias vezes </p>
 		</th>     
 		 <th scope="col">
 			   <p align="justify"> 
