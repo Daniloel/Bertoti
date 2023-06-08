@@ -44,26 +44,22 @@
                      o objeto que eles estão observando.
 			  </p>     
 		</th>
-		<th scope="col"><p align="justify">Princípio aberto/fechado. Você pode introduzir novas classes assinantes sem ter que mudar o código da publicadora (e vice versa se existe uma interface publicadora).
- Você pode estabelecer relações entre objetos durante a execução.
-			  </p></th>
+		<th scope="col"><p align="justify">Princípio aberto/fechado. Você pode introduzir novas classes assinantes sem ter que mudar o código da publicadora (e vice versa se                                                           existe uma interface publicadora), estabelece relações entre objetos durante a execução. </p>
+		 </th>
 		</tr>
             <tr>
 		 <th scope="col">Singliton</th>
-              <th scope="col"> <p align="justify">  O padrão requer tratamento especial em um ambiente multithreaded para que 
-múltiplas threads não possam criar um objeto singleton várias vezes
- </p> </th>     
+              <th scope="col"> <p align="justify">  O padrão requer tratamento especial em um ambiente multithreaded para que múltiplas threads não possam criar um objeto singleton várias                                vezes </p>
+		</th>     
 		 <th scope="col">
 			   <p align="justify"> 
 			   O padrão de projeto Singleton é um padrão de projeto criacional que permite que você garanta que uma classe tenha apenas uma instância, enquanto fornece um
-                     ponto de acesso global para essa instância. Em outras palavras, o padrão Singleton é usado quando você deseja ter certeza de que apenas uma instância de uma
-                    classe será criada e usada em todo o seu código. O Singleton é um padrão de projeto muito útil, mas deve ser usado com cuidado, pois pode tornar o código difícil de                        testar.
-		         </p>        
+                           ponto de acesso global para essa instância. Em outras palavras, o padrão Singleton é usado quando você deseja ter certeza de que apenas uma instância de uma
+                           classe será criada e usada em todo o seu código. O Singleton é um padrão de projeto muito útil, mas deve ser usado com cuidado, pois pode tornar o código                                  difícil de testar.</p>        
 		 </th>
-		 <th scope="col"> <p align="justify">  Você pode ter certeza que uma classe só terá uma única instância.
- Você ganha um ponto de acesso global para aquela instância.
- O objeto singleton é inicializado somente quando for pedido pela primeira vez.
- </p> </th>   
+		 <th scope="col"> <p align="justify">  Você pode ter certeza que uma classe só terá uma única instância. Você ganha um ponto de acesso global para aquela instância.
+                 O objeto singleton é inicializado somente quando for pedido pela primeira vez.</p> 
+		 </th>   
 		 </tr>
 		 <tr>
 		 <th scope="col">Composite</th>
